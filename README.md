@@ -3,7 +3,7 @@
 I was given **take-home_eval-data.xlsx**, an excel file containing 3 pages representing different parts of this assignment. Each page had a different prompt or set of questions I should answer. I utilized the Pandas library on this assignment, working betweeen the Jupyter Notebook and spreadsheets. I used spreadsheets for inputting notes, making minor edits, etc.
 
 ### Files
-**Take_Home.ipynb** is the Jupyter Notebook I worked in, and contains all my documentation and analysis. **annotated_take-home_eval-data.xlsx** is the spreadsheet containing all the relevant notes or transforms in their final forms. The other .xlsx files represent various points of progress while working between Pandas a  
+**Take_Home.ipynb** is the Jupyter Notebook I worked in, and contains all my documentation and analysis. **annotated_take-home_eval-data.xlsx** is the spreadsheet containing all the relevant notes or transforms in their final forms. The other .xlsx files represent various points of progress while working between Pandas and spreadsheets. 
 
 ## Prompts
 For Part 1, I created a document to visualize and answer questions about the query data I was given. In Part 2, I created a scoring rubric and reported information about the quality of keyword and article title mathes. In Part 3, I rated the quality of translated article titles and translated article body text.  
